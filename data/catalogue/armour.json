@@ -1,0 +1,464 @@
+[
+    {
+        "id": "copper_plate",
+        "name": "Copper Plate",
+        "description": "",
+        "base_value": 50,
+        "keywords": [
+            "Copper",
+            "Plate",
+            "Armour"
+        ]
+    },
+    {
+        "id": "iron_plate",
+        "name": "Iron Plate",
+        "description": "",
+        "base_value": 70,
+        "keywords": [
+            "Iron",
+            "Plate",
+            "Armour"
+        ]
+    },
+    {
+        "id": "steel_plate",
+        "name": "Steel Plate",
+        "description": "",
+        "base_value": 100,
+        "keywords": [
+            "Steel",
+            "Plate",
+            "Armour"
+        ]
+    },
+    {
+        "id": "mithril_plate",
+        "name": "Mithril Plate",
+        "description": "",
+        "base_value": 180,
+        "keywords": [
+            "Mithril",
+            "Plate",
+            "Armour"
+        ]
+    },
+    {
+        "id": "adamantine_plate",
+        "name": "Adamantine Plate",
+        "description": "",
+        "base_value": 300,
+        "keywords": [
+            "Adamantine",
+            "Plate",
+            "Armour"
+        ]
+    },
+    {
+        "id": "Magical_plate",
+        "name": "Magical Plate",
+        "description": "",
+        "base_value": 600,
+        "keywords": [
+            "Magical",
+            "Plate",
+            "Armour"
+        ]
+    },
+    {
+        "id": "copper_chain",
+        "name": "Copper Chain",
+        "description": "",
+        "base_value": 40,
+        "keywords": [
+            "Copper",
+            "Chain",
+            "Armour"
+        ]
+    },
+    {
+        "id": "iron_chain",
+        "name": "Iron Chain",
+        "description": "",
+        "base_value": 60,
+        "keywords": [
+            "Iron",
+            "Chain",
+            "Armour"
+        ]
+    },
+    {
+        "id": "steel_chain",
+        "name": "Steel Chain",
+        "description": "",
+        "base_value": 80,
+        "keywords": [
+            "Steel",
+            "Chain",
+            "Armour"
+        ]
+    },
+    {
+        "id": "mithril_chain",
+        "name": "Mithril Chain",
+        "description": "",
+        "base_value": 120,
+        "keywords": [
+            "Mithril",
+            "Chain",
+            "Armour"
+        ]
+    },
+    {
+        "id": "adamantine_chain",
+        "name": "Adamantine Chain",
+        "description": "",
+        "base_value": 200,
+        "keywords": [
+            "Adamantine",
+            "Chain",
+            "Armour"
+        ]
+    },
+    {
+        "id": "Magical_chain",
+        "name": "Magical Chain",
+        "description": "",
+        "base_value": 300,
+        "keywords": [
+            "Magical",
+            "Chain",
+            "Armour"
+        ]
+    },
+    {
+        "id": "copper_shield",
+        "name": "Copper Shield",
+        "description": "",
+        "base_value": 50,
+        "keywords": [
+            "Copper",
+            "Shield",
+            "Armour"
+        ]
+    },
+    {
+        "id": "iron_shield",
+        "name": "Iron Shield",
+        "description": "",
+        "base_value": 80,
+        "keywords": [
+            "Iron",
+            "Shield",
+            "Armour"
+        ]
+    },
+    {
+        "id": "steel_shield",
+        "name": "Steel Shield",
+        "description": "",
+        "base_value": 100,
+        "keywords": [
+            "Steel",
+            "Shield",
+            "Armour"
+        ]
+    },
+    {
+        "id": "mithril_shield",
+        "name": "Mithril Shield",
+        "description": "",
+        "base_value": 200,
+        "keywords": [
+            "Mithril",
+            "Shield",
+            "Armour"
+        ]
+    },
+    {
+        "id": "adamantine_shield",
+        "name": "Adamantine Shield",
+        "description": "",
+        "base_value": 400,
+        "keywords": [
+            "Adamantine",
+            "Shield",
+            "Armour"
+        ]
+    },
+    {
+        "id": "Magical_shield",
+        "name": "Magical Shield",
+        "description": "",
+        "base_value": 600,
+        "keywords": [
+            "Magical",
+            "Shield",
+            "Armour"
+        ]
+    },
+    {
+        "id": "copper_helmet",
+        "name": "Copper Helmet",
+        "description": "",
+        "base_value": 30,
+        "keywords": [
+            "Copper",
+            "Helmet",
+            "Armour"
+        ]
+    },
+    {
+        "id": "iron_helmet",
+        "name": "Iron Helmet",
+        "description": "",
+        "base_value": 50,
+        "keywords": [
+            "Iron",
+            "Helmet",
+            "Armour"
+        ]
+    },
+    {
+        "id": "steel_helmet",
+        "name": "Steel Helmet",
+        "description": "",
+        "base_value": 80,
+        "keywords": [
+            "Steel",
+            "Helmet",
+            "Armour"
+        ]
+    },
+    {
+        "id": "mithril_helmet",
+        "name": "Mithril Helmet",
+        "description": "",
+        "base_value": 100,
+        "keywords": [
+            "Mithril",
+            "Helmet",
+            "Armour"
+        ]
+    },
+    {
+        "id": "adamantine_helmet",
+        "name": "Adamantine Helmet",
+        "description": "",
+        "base_value": 160,
+        "keywords": [
+            "Adamantine",
+            "Helmet",
+            "Armour"
+        ]
+    },
+    {
+        "id": "Magical_helmet",
+        "name": "Magical Helmet",
+        "description": "",
+        "base_value": 250,
+        "keywords": [
+            "Magical",
+            "Helmet",
+            "Armour"
+        ]
+    },
+    {
+        "id": "copper_gauntlet",
+        "name": "Copper Gauntlet",
+        "description": "",
+        "base_value": 20,
+        "keywords": [
+            "Copper",
+            "Gauntlet",
+            "Armour"
+        ]
+    },
+    {
+        "id": "iron_gauntlet",
+        "name": "Iron Gauntlet",
+        "description": "",
+        "base_value": 40,
+        "keywords": [
+            "Iron",
+            "Gauntlet",
+            "Armour"
+        ]
+    },
+    {
+        "id": "steel_gauntlet",
+        "name": "Steel Gauntlet",
+        "description": "",
+        "base_value": 60,
+        "keywords": [
+            "Steel",
+            "Gauntlet",
+            "Armour"
+        ]
+    },
+    {
+        "id": "mithril_gauntlet",
+        "name": "Mithril Gauntlet",
+        "description": "",
+        "base_value": 80,
+        "keywords": [
+            "Mithril",
+            "Gauntlet",
+            "Armour"
+        ]
+    },
+    {
+        "id": "adamantine_gauntlet",
+        "name": "Adamantine Gauntlet",
+        "description": "",
+        "base_value": 150,
+        "keywords": [
+            "Adamantine",
+            "Gauntlet",
+            "Armour"
+        ]
+    },
+    {
+        "id": "Magical_gauntlet",
+        "name": "Magical Gauntlet",
+        "description": "",
+        "base_value": 200,
+        "keywords": [
+            "Magical",
+            "Gauntlet",
+            "Armour"
+        ]
+    },
+    {
+        "id": "copper_spaulder",
+        "name": "Copper Spaulder",
+        "description": "",
+        "base_value": 50,
+        "keywords": [
+            "Copper",
+            "Shoulder",
+            "Armour"
+        ]
+    },
+    {
+        "id": "iron_spaulder",
+        "name": "Iron Spaulder",
+        "description": "",
+        "base_value": 80,
+        "keywords": [
+            "Iron",
+            "Shoulder",
+            "Armour"
+        ]
+    },
+    {
+        "id": "steel_spaulder",
+        "name": "Steel Spaulder",
+        "description": "",
+        "base_value": 100,
+        "keywords": [
+            "Steel",
+            "Shoulder",
+            "Armour"
+        ]
+    },
+    {
+        "id": "mithril_spaulder",
+        "name": "Mithril Spaulder",
+        "description": "",
+        "base_value": 160,
+        "keywords": [
+            "Mithril",
+            "Shoulder",
+            "Armour"
+        ]
+    },
+    {
+        "id": "adamantine_spaulder",
+        "name": "Adamantine Spaulder",
+        "description": "",
+        "base_value": 250,
+        "keywords": [
+            "Adamantine",
+            "Shoulder",
+            "Armour"
+        ]
+    },
+    {
+        "id": "Magical_spaulder",
+        "name": "Magical Spaulder",
+        "description": "",
+        "base_value": 400,
+        "keywords": [
+            "Magical",
+            "Shoulder",
+            "Armour"
+        ]
+    },
+    {
+        "id": "copper_greaves",
+        "name": "Copper Greaves",
+        "description": "",
+        "base_value": 50,
+        "keywords": [
+            "Copper",
+            "Boots",
+            "Armour"
+        ]
+    },
+    {
+        "id": "iron_greaves",
+        "name": "Iron Greaves",
+        "description": "",
+        "base_value": 80,
+        "keywords": [
+            "Iron",
+            "Boots",
+            "Armour"
+        ]
+    },
+    {
+        "id": "steel_greaves",
+        "name": "Steel Greaves",
+        "description": "",
+        "base_value": 100,
+        "keywords": [
+            "Steel",
+            "Boots",
+            "Armour"
+        ]
+    },
+    {
+        "id": "mithril_greaves",
+        "name": "Mithril Greaves",
+        "description": "",
+        "base_value": 180,
+        "keywords": [
+            "Mithril",
+            "Boots",
+            "Armour"
+        ]
+    },
+    {
+        "id": "adamantine_greaves",
+        "name": "Adamantine Greaves",
+        "description": "",
+        "base_value": 300,
+        "keywords": [
+            "Adamantine",
+            "Boots",
+            "Armour"
+        ]
+    },
+    {
+        "id": "Magical_greaves",
+        "name": "Magical Greaves",
+        "description": "",
+        "base_value": 500,
+        "keywords": [
+            "Magical",
+            "Boots",
+            "Armour"
+        ]
+    }
+]

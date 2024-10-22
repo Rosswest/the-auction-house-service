@@ -1,0 +1,12 @@
+[
+    {
+        "id": "crultus_the_bringebringer",
+        "name": "Crultus the Bringebringer",
+        "description": "The mightiest lobstrosity of the ocean depths, his name spoken in fearful whispers by fishermen and fish-men alike.",
+        "base_value": 6000,
+        "keywords": [
+            "Aquatic",
+            "Monster"
+        ]
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "id": "healing_potion_1",
+        "name": "Weak Healing Potion",
+        "description": "",
+        "base_value": 30,
+        "keywords": [
+            "Consumable",
+            "Healing",
+            "Potion"
+        ]
+    },
+    {
+        "id": "healing_potion_2",
+        "name": "Lesser Potion",
+        "description": "",
+        "base_value": 40,
+        "keywords": [
+            "Consumable",
+            "Healing",
+            "Potion"
+        ]
+    },
+    {
+        "id": "healing_potion_3",
+        "name": "Healing Potion",
+        "description": "",
+        "base_value": 60,
+        "keywords": [
+            "Consumable",
+            "Healing",
+            "Potion"
+        ]
+    },
+    {
+        "id": "healing_potion_4",
+        "name": "Greater Healing Potion",
+        "description": "",
+        "base_value": 80,
+        "keywords": [
+            "Consumable",
+            "Healing",
+            "Potion"
+        ]
+    },
+    {
+        "id": "healing_potion_5",
+        "name": "Healing Elixir",
+        "description": "",
+        "base_value": 100,
+        "keywords": [
+            "Consumable",
+            "Healing",
+            "Potion"
+        ]
+    }
+]

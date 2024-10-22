@@ -1,0 +1,464 @@
+[
+    {
+        "id": "copper_sword",
+        "name": "Copper Sword",
+        "description": "",
+        "base_value": 50,
+        "keywords": [
+            "Copper",
+            "Sword",
+            "Weapon"
+        ]
+    },
+    {
+        "id": "iron_sword",
+        "name": "Iron Sword",
+        "description": "",
+        "base_value": 70,
+        "keywords": [
+            "Iron",
+            "Sword",
+            "Weapon"
+        ]
+    },
+    {
+        "id": "steel_sword",
+        "name": "Steel Sword",
+        "description": "",
+        "base_value": 100,
+        "keywords": [
+            "Steel",
+            "Sword",
+            "Weapon"
+        ]
+    },
+    {
+        "id": "mithril_sword",
+        "name": "Mithril Sword",
+        "description": "",
+        "base_value": 200,
+        "keywords": [
+            "Mithril",
+            "Sword",
+            "Weapon"
+        ]
+    },
+    {
+        "id": "adamantine_sword",
+        "name": "Adamantine Sword",
+        "description": "",
+        "base_value": 400,
+        "keywords": [
+            "Adamantine",
+            "Sword",
+            "Weapon"
+        ]
+    },
+    {
+        "id": "Magical_sword",
+        "name": "Magical Sword",
+        "description": "",
+        "base_value": 600,
+        "keywords": [
+            "Magical",
+            "Sword",
+            "Weapon"
+        ]
+    },
+    {
+        "id": "copper_axe",
+        "name": "Copper Axe",
+        "description": "",
+        "base_value": 50,
+        "keywords": [
+            "Copper",
+            "Axe",
+            "Weapon"
+        ]
+    },
+    {
+        "id": "iron_axe",
+        "name": "Iron Axe",
+        "description": "",
+        "base_value": 70,
+        "keywords": [
+            "Iron",
+            "Axe",
+            "Weapon"
+        ]
+    },
+    {
+        "id": "steel_axe",
+        "name": "Steel Axe",
+        "description": "",
+        "base_value": 100,
+        "keywords": [
+            "Steel",
+            "Axe",
+            "Weapon"
+        ]
+    },
+    {
+        "id": "mithril_axe",
+        "name": "Mithril Axe",
+        "description": "",
+        "base_value": 200,
+        "keywords": [
+            "Mithril",
+            "Axe",
+            "Weapon"
+        ]
+    },
+    {
+        "id": "adamantine_axe",
+        "name": "Adamantine Axe",
+        "description": "",
+        "base_value": 400,
+        "keywords": [
+            "Adamantine",
+            "Axe",
+            "Weapon"
+        ]
+    },
+    {
+        "id": "Magical_axe",
+        "name": "Magical Axe",
+        "description": "",
+        "base_value": 600,
+        "keywords": [
+            "Magical",
+            "Axe",
+            "Weapon"
+        ]
+    },
+    {
+        "id": "copper_spear",
+        "name": "Copper Spear",
+        "description": "",
+        "base_value": 50,
+        "keywords": [
+            "Copper",
+            "Spear",
+            "Weapon"
+        ]
+    },
+    {
+        "id": "iron_spear",
+        "name": "Iron Spear",
+        "description": "",
+        "base_value": 80,
+        "keywords": [
+            "Iron",
+            "Spear",
+            "Weapon"
+        ]
+    },
+    {
+        "id": "steel_spear",
+        "name": "Steel Spear",
+        "description": "",
+        "base_value": 100,
+        "keywords": [
+            "Steel",
+            "Spear",
+            "Weapon"
+        ]
+    },
+    {
+        "id": "mithril_spear",
+        "name": "Mithril Spear",
+        "description": "",
+        "base_value": 200,
+        "keywords": [
+            "Mithril",
+            "Spear",
+            "Weapon"
+        ]
+    },
+    {
+        "id": "adamantine_spear",
+        "name": "Adamantine Spear",
+        "description": "",
+        "base_value": 400,
+        "keywords": [
+            "Adamantine",
+            "Spear",
+            "Weapon"
+        ]
+    },
+    {
+        "id": "Magical_spear",
+        "name": "Magical Spear",
+        "description": "",
+        "base_value": 600,
+        "keywords": [
+            "Magical",
+            "Spear",
+            "Weapon"
+        ]
+    },
+    {
+        "id": "copper_mace",
+        "name": "Copper Mace",
+        "description": "",
+        "base_value": 50,
+        "keywords": [
+            "Copper",
+            "Mace",
+            "Weapon"
+        ]
+    },
+    {
+        "id": "iron_mace",
+        "name": "Iron Mace",
+        "description": "",
+        "base_value": 80,
+        "keywords": [
+            "Iron",
+            "Mace",
+            "Weapon"
+        ]
+    },
+    {
+        "id": "steel_mace",
+        "name": "Steel Mace",
+        "description": "",
+        "base_value": 100,
+        "keywords": [
+            "Steel",
+            "Mace",
+            "Weapon"
+        ]
+    },
+    {
+        "id": "mithril_mace",
+        "name": "Mithril Mace",
+        "description": "",
+        "base_value": 200,
+        "keywords": [
+            "Mithril",
+            "Mace",
+            "Weapon"
+        ]
+    },
+    {
+        "id": "adamantine_mace",
+        "name": "Adamantine Mace",
+        "description": "",
+        "base_value": 400,
+        "keywords": [
+            "Adamantine",
+            "Mace",
+            "Weapon"
+        ]
+    },
+    {
+        "id": "Magical_mace",
+        "name": "Magical Mace",
+        "description": "",
+        "base_value": 600,
+        "keywords": [
+            "Magical",
+            "Mace",
+            "Weapon"
+        ]
+    },
+    {
+        "id": "copper_javelin",
+        "name": "Copper Javelin",
+        "description": "",
+        "base_value": 30,
+        "keywords": [
+            "Copper",
+            "Javelin",
+            "Weapon"
+        ]
+    },
+    {
+        "id": "iron_javelin",
+        "name": "Iron Javelin",
+        "description": "",
+        "base_value": 50,
+        "keywords": [
+            "Iron",
+            "Javelin",
+            "Weapon"
+        ]
+    },
+    {
+        "id": "steel_javelin",
+        "name": "Steel Javelin",
+        "description": "",
+        "base_value": 70,
+        "keywords": [
+            "Steel",
+            "Javelin",
+            "Weapon"
+        ]
+    },
+    {
+        "id": "mithril_javelin",
+        "name": "Mithril Javelin",
+        "description": "",
+        "base_value": 120,
+        "keywords": [
+            "Mithril",
+            "Javelin",
+            "Weapon"
+        ]
+    },
+    {
+        "id": "adamantine_javelin",
+        "name": "Adamantine Javelin",
+        "description": "",
+        "base_value": 200,
+        "keywords": [
+            "Adamantine",
+            "Javelin",
+            "Weapon"
+        ]
+    },
+    {
+        "id": "Magical_javelin",
+        "name": "Magical Javelin",
+        "description": "",
+        "base_value": 300,
+        "keywords": [
+            "Magical",
+            "Javelin",
+            "Weapon"
+        ]
+    },
+    {
+        "id": "copper_knife",
+        "name": "Copper Knife",
+        "description": "",
+        "base_value": 20,
+        "keywords": [
+            "Copper",
+            "Knife",
+            "Weapon"
+        ]
+    },
+    {
+        "id": "iron_knife",
+        "name": "Iron Knife",
+        "description": "",
+        "base_value": 40,
+        "keywords": [
+            "Iron",
+            "Knife",
+            "Weapon"
+        ]
+    },
+    {
+        "id": "steel_knife",
+        "name": "Steel Knife",
+        "description": "",
+        "base_value": 50,
+        "keywords": [
+            "Steel",
+            "Knife",
+            "Weapon"
+        ]
+    },
+    {
+        "id": "mithril_knife",
+        "name": "Mithril Knife",
+        "description": "",
+        "base_value": 70,
+        "keywords": [
+            "Mithril",
+            "Knife",
+            "Weapon"
+        ]
+    },
+    {
+        "id": "adamantine_knife",
+        "name": "Adamantine Knife",
+        "description": "",
+        "base_value": 100,
+        "keywords": [
+            "Adamantine",
+            "Knife",
+            "Weapon"
+        ]
+    },
+    {
+        "id": "Magical_knife",
+        "name": "Magical Knife",
+        "description": "",
+        "base_value": 200,
+        "keywords": [
+            "Magical",
+            "Knife",
+            "Weapon"
+        ]
+    },
+    {
+        "id": "copper_greatsword",
+        "name": "Copper Greatsword",
+        "description": "",
+        "base_value": 60,
+        "keywords": [
+            "Copper",
+            "Greatsword",
+            "Weapon"
+        ]
+    },
+    {
+        "id": "iron_greatsword",
+        "name": "Iron Greatsword",
+        "description": "",
+        "base_value": 100,
+        "keywords": [
+            "Iron",
+            "Greatsword",
+            "Weapon"
+        ]
+    },
+    {
+        "id": "steel_greatsword",
+        "name": "Steel Greatsword",
+        "description": "",
+        "base_value": 120,
+        "keywords": [
+            "Steel",
+            "Greatsword",
+            "Weapon"
+        ]
+    },
+    {
+        "id": "mithril_greatsword",
+        "name": "Mithril Greatsword",
+        "description": "",
+        "base_value": 250,
+        "keywords": [
+            "Mithril",
+            "Greatsword",
+            "Weapon"
+        ]
+    },
+    {
+        "id": "adamantine_greatsword",
+        "name": "Adamantine Greatsword",
+        "description": "",
+        "base_value": 500,
+        "keywords": [
+            "Adamantine",
+            "Greatsword",
+            "Weapon"
+        ]
+    },
+    {
+        "id": "Magical_greatsword",
+        "name": "Magical Greatsword",
+        "description": "",
+        "base_value": 800,
+        "keywords": [
+            "Magical",
+            "Greatsword",
+            "Weapon"
+        ]
+    }
+]

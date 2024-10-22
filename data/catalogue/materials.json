@@ -1,0 +1,241 @@
+[
+    {
+        "id": "copper_ingot",
+        "name": "Copper Ingot",
+        "description": "A block of copper.",
+        "base_value": 10,
+        "keywords": [
+            "Material",
+            "Copper"
+        ]
+    },
+    {
+        "id": "iron_ingot",
+        "name": "Iron Ingot",
+        "description": "A block of iron.",
+        "base_value": 15,
+        "keywords": [
+            "Material",
+            "Iron"
+        ]
+    },
+    {
+        "id": "steel_ingot",
+        "name": "Steel Ingot",
+        "description": "A block of steel.",
+        "base_value": 30,
+        "keywords": [
+            "Material",
+            "Steel"
+        ]
+    },
+    {
+        "id": "mithril_ingot",
+        "name": "Mithril Ingot",
+        "description": "A block of mithril.",
+        "base_value": 70,
+        "keywords": [
+            "Material",
+            "Mithril"
+        ]
+    },
+    {
+        "id": "adamantine_ingot",
+        "name": "Adamantine Ingot",
+        "description": "A block of adamantine.",
+        "base_value": 150,
+        "keywords": [
+            "Material",
+            "Adamantine"
+        ]
+    },
+    {
+        "id": "wool_cloth",
+        "name": "Sheet of Wool",
+        "description": "A sheet of wool.",
+        "base_value": 5,
+        "keywords": [
+            "Material",
+            "Wool"
+        ]
+    },
+    {
+        "id": "silk_cloth",
+        "name": "Sheet of Silk",
+        "description": "A sheet of silk.",
+        "base_value": 8,
+        "keywords": [
+            "Material",
+            "Silk"
+        ]
+    },
+    {
+        "id": "moon_cloth",
+        "name": "Sheet of Mooncloth",
+        "description": "A sheet of Mooncloth.",
+        "base_value": 20,
+        "keywords": [
+            "Material",
+            "Mooncloth"
+        ]
+    },
+    {
+        "id": "oak_log",
+        "name": "Oak Log",
+        "description": "An oak log.",
+        "base_value": 2,
+        "keywords": [
+            "Material",
+            "Wood",
+            "Oak"
+        ]
+    },
+    {
+        "id": "willow_log",
+        "name": "Willow Log",
+        "description": "A willow log.",
+        "base_value": 3,
+        "keywords": [
+            "Material",
+            "Wood",
+            "Willow"
+        ]
+    },
+    {
+        "id": "yew_log",
+        "name": "Yew Log",
+        "description": "A yew log.",
+        "base_value": 3,
+        "keywords": [
+            "Material",
+            "Wood",
+            "Yew"
+        ]
+    },
+    {
+        "id": "maple_log",
+        "name": "Maple Log",
+        "description": "A maple log.",
+        "base_value": 3,
+        "keywords": [
+            "Material",
+            "Wood",
+            "Maple"
+        ]
+    },
+    {
+        "id": "pine_log",
+        "name": "Pine Log",
+        "description": "A pine log.",
+        "base_value": 4,
+        "keywords": [
+            "Material",
+            "Wood",
+            "Pine"
+        ]
+    },
+    {
+        "id": "pine_log",
+        "name": "Pine Log",
+        "description": "A pine log.",
+        "base_value": 5,
+        "keywords": [
+            "Material",
+            "Wood",
+            "Pine"
+        ]
+    },
+    {
+        "id": "charcoal",
+        "name": "Charcoal",
+        "description": "A piece of charcoal.",
+        "base_value": 2,
+        "keywords": [
+            "Material"
+        ]
+    },
+    {
+        "id": "glass_sheet",
+        "name": "Sheet of Glass",
+        "description": "A sheet of hardened glass.",
+        "base_value": 30,
+        "keywords": [
+            "Material"
+        ]
+    },
+    {
+        "id": "tree_sap",
+        "name": "Tree Sap",
+        "description": "A bottle of sap from a tree.",
+        "base_value": 10,
+        "keywords": [
+            "Material"
+        ]
+    },
+    {
+        "id": "goblin_blood",
+        "name": "Goblin Blood",
+        "description": "A vial of blood from a tricky little goblin.",
+        "base_value": 10,
+        "keywords": [
+            "Material",
+            "Blood",
+            "Monster"
+        ]
+    },
+    {
+        "id": "orc_blood",
+        "name": "Orc Blood",
+        "description": "A vial of blood from a dastardly orc.",
+        "base_value": 20,
+        "keywords": [
+            "Material",
+            "Blood",
+            "Monster"
+        ]
+    },
+    {
+        "id": "troll_blood",
+        "name": "Troll Blood",
+        "description": "A vial of blood from a vile troll.",
+        "base_value": 30,
+        "keywords": [
+            "Material",
+            "Blood",
+            "Monster"
+        ]
+    },
+    {
+        "id": "vampire_blood",
+        "name": "Vampire Blood",
+        "description": "A vial of blood from an evil vampire.",
+        "base_value": 50,
+        "keywords": [
+            "Material",
+            "Blood",
+            "Monster"
+        ]
+    },
+    {
+        "id": "ghoul_blood",
+        "name": "Ghoul Blood",
+        "description": "A vial of blood from a rotting ghoul.",
+        "base_value": 15,
+        "keywords": [
+            "Material",
+            "Blood",
+            "Monster"
+        ]
+    },
+    {
+        "id": "dragon_blood",
+        "name": "Dragon Blood",
+        "description": "A vial of blood from an ancient dragon.",
+        "base_value": 200,
+        "keywords": [
+            "Material",
+            "Blood",
+            "Monster"
+        ]
+    }
+]

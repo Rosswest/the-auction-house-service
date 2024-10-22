@@ -1,0 +1,56 @@
+[
+    {
+        "id": "meteorite_fragment",
+        "name": "Meteorite fragment",
+        "description": "A mysterious piece of metal that fell from the sky.",
+        "base_value": 700,
+        "keywords": [
+            "Material",
+            "Magical"
+        ]
+    },
+    {
+        "id": "dragon_eye",
+        "name": "Dragon eye",
+        "description": "An eyeball plucked from the corpse of a mighty dragon, somehow not decaying despite its owner's demise.",
+        "base_value": 1000,
+        "keywords": [
+            "Material",
+            "Magical",
+            "Monster"
+        ]
+    },
+    {
+        "id": "dragon_scale",
+        "name": "Dragon Scale",
+        "description": "A mysterious piece of dragon scale, harder than steel.",
+        "base_value": 400,
+        "keywords": [
+            "Material",
+            "Magical",
+            "Monster"
+        ]
+    },
+    {
+        "id": "dragon_bone",
+        "name": "Dragon Bone",
+        "description": "A piece of bone from a recently slain dragon.",
+        "base_value": 300,
+        "keywords": [
+            "Material",
+            "Magical",
+            "Monster"
+        ]
+    },
+    {
+        "id": "dragon_claw",
+        "name": "Dragon Claw",
+        "description": "The claw of a recently slain dragon, so sharp it could cut through steel.",
+        "base_value": 500,
+        "keywords": [
+            "Material",
+            "Magical",
+            "Monster"
+        ]
+    }
+]

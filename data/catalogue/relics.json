@@ -1,0 +1,26 @@
+[
+    {
+        "id": "vorpal_sword",
+        "name": "Vorpal Sword",
+        "description": "A blade that can cut through anything.",
+        "base_value": 5000,
+        "keywords": [
+            "Magical",
+            "Sword",
+            "Relic",
+            "Weapon"
+        ]
+    },
+    {
+        "id": "bad_dagger",
+        "name": "The Bad Dagger",
+        "description": "Allegedly the worst weapon in existence. You wouldn't believe just how utterly ineffective it is. Only powerful magic could explain a blade of such inadequacy.",
+        "base_value": 2000,
+        "keywords": [
+            "Magical",
+            "Relic",
+            "Knife",
+            "Weapon"
+        ]
+    }
+]
