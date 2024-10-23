@@ -32,10 +32,89 @@ class Catalogue {
         return items
     }
 
-    search(search_params) {
-        return ["TODO"];
+    search(params) {
+        const name = params.name;
+        const exact = params.exact;
+        const keyword = params.keyword;
+        const min = params.minValue;
+        const max = params.maxValue;
+        let results = this.items;
+
+        if (name != undefined) {
+            results = this.filterByName(results,name,exact);
+        }
+
+        if (keyword != undefined) {
+            results = this.filterByKeyword(results,keyword);
+        }
+
+        if (min != undefined || max != undefined) {
+            results = this.filterByBaseValue(results,min,max);
+        }
+
+        return results;
+    }
+    
+    filterByIds(candidates,ids) {
+        const results = [];
+        candidates.forEach((item,key) => {
+            if (ids.includes(item.id)) {
+                results.push(item);
+            }            
+        });
+
+        return results;
     }
 
+    filterByName(candidates,name,exact) {
+        exact = (exact == 'true');
+        const results = [];
+        candidates.forEach((item,key) => {
+            // console.log(item);
+            if (!exact) {
+                if (item.name.toLowerCase().includes(name)) {
+                    results.push(item);
+                }
+            } else {
+                if (item.name == name) {
+                    results.push(item);
+                }
+            }
+        });
+
+        return results;
+    }
+
+    filterByKeyword(candidates,keyword) {
+        const results = [];
+        candidates.forEach((item,key) => {
+            if (item.keywords.includes(keyword)) {
+                results.push(item);
+            }
+        });
+
+        return results;
+    }
+
+    filterByBaseValue(candidates,min,max) {
+        if (min == undefined) {
+            min = 0;
+        }
+
+        if (max == undefined) {
+            max = Number.MAX_VALUE;
+        }
+
+        const results = [];
+        candidates.forEach((item,key) => {
+            const value = item.base_value;
+            if (value <= max && value >= min) {
+                results.push(item);
+            }
+        });
+
+        return results;
+    }
 }
 
 exports.Catalogue = Catalogue;
